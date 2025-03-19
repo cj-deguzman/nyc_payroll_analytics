@@ -1,0 +1,9 @@
+{
+	"name": "nycfactoryy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4c8ccb8-3d80-48d8-b9f0-fbc266fdd6b0",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
